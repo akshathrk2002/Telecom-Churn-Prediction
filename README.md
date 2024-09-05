@@ -9,7 +9,6 @@
 6. [Model Evaluation](#model-evaluation)
 7. [Installation](#installation)
 8. [Usage](#usage)
-9. [Results](#results)
 
 ## Project Overview
 This project aims to predict customer churn in the telecom industry using a machine learning approach. We employed an XGBoost Classifier to analyze customer behavior data and identify patterns that may indicate whether a customer is likely to churn.
